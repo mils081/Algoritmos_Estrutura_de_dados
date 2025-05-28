@@ -2,5 +2,4 @@
 
 Estudos de algoritmos e estrutura de dados em c.
 
-Usando o site do [Paulo Feofiloff](https://www.ime.usp.br/~pf/algoritmos/index.html) como referência principal.
-
+Usando as videoaulas do Professor [Mário César](https://www.youtube.com/playlist?list=PL5TPkym335qxZktT1RZD1RGN3P6Iey1fp) como referência principal.
